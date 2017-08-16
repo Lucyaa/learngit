@@ -5,4 +5,4 @@ yes,a lot of different.
 add a new sentence.
 don't say anything worried.
 anything weird¡£
-create a branch.
+creating a new branch is quick & simple.
